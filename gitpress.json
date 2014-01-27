@@ -1,6 +1,6 @@
 {
 	"docs"      : {
-		"关于gitpress": "README.md",
+		"关于我的blog": "README.md",
 		"gitpress": "post/gitpress"
 	},	
 	"perpage"   : 10,
