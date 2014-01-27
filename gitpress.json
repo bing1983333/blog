@@ -1,3 +1,23 @@
 {
-    "docs"      : ["README.md", "docs"],        
+	"docs"      : {
+		"关于bing1983333": "README.md",
+		"gitpress": "posts/gitpress"
+	},	
+	"perpage"   : 10,
+	"template"  : "pithiness",
+	"types"     : {
+		"\\.(md||markdown)$"   : "markdown", 
+		"\\.(js||css||json)$"  : "code",
+		"\\.html?$"            : "html",
+		".*"                   : "text"		
+	},
+	"title"  : "Bing1983333's Blog",
+	"domain-alias"  : [],
+	"friends"  : [
+		{
+			"name"  : "JerryQu的小站",
+			"title"  : "屈屈的博客",
+			"url"  : "http://imququ.com"		  
+		}
+	] 
 }
