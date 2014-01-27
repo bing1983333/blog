@@ -11,7 +11,7 @@
 		"\\.html?$"            : "html",
 		".*"                   : "text"		
 	},
-	"title"  : "哈库那马塔塔2",
+	"title"  : "哈库那马塔塔",
 	"friends"  : [
 		{
 			"name"  : "JerryQu的小站",
