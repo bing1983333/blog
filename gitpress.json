@@ -12,7 +12,7 @@
 		"\\.html?$"            : "html",
 		".*"                   : "text"		
 	},
-	"title"  : "哈库那马塔塔",
+	"title"  : "哈库那马塔塔1",
 	"description"  : "哈库那马塔塔222",
 	"comment"  : "on",
 	"domain-alias"  : [],
