@@ -4,7 +4,7 @@
 		"gitpress": "post/gitpress",
 		"jvm": "post/jvm"
 	},	
-	"perpage"   : 10,
+	"perpage"   : 2,
 	"template"  : "pithiness",
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
@@ -13,6 +13,8 @@
 		".*"                   : "text"		
 	},
 	"title"  : "哈库那马塔塔",
+	"description"  : "哈库那马塔塔222",
+	"comment"  : "on",
 	"domain-alias"  : [],
 	"friends"  : [
 		{
