@@ -2,7 +2,7 @@
 	"docs"      : {
 		"关于我的博客": "README.md",
 		"gitpress": "post/gitpress",
-		"jvm": "post/jvm"
+		"jvm": "post/jvm",
 		"非技术": "post/notech"
 	},	
 	"perpage"   : 5,
