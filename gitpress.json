@@ -4,7 +4,7 @@
 		"gitpress": "post/gitpress",
 		"jvm": "post/jvm"
 	},	
-	"perpage"   : 2,
+	"perpage"   : 5,
 	"template"  : "pithiness",
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
@@ -13,7 +13,7 @@
 		".*"                   : "text"		
 	},
 	"title"  : "哈库那马塔塔",
-	"description"  : "神经病人思维广，2B青年欢乐多",
+	"description"  : "神经病人思维广，2B青年欢乐多。",
 	"comment"  : "on",
 	"domain-alias"  : [],
 	"friends"  : [
