@@ -1,7 +1,8 @@
 {
 	"docs"      : {
 		"关于我的blog": "README.md",
-		"gitpress": "post/gitpress"
+		"gitpress": "post/gitpress",
+		"jvm": "post/jvm"
 	},	
 	"perpage"   : 10,
 	"template"  : "pithiness",
